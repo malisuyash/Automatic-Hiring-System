@@ -16,5 +16,5 @@ Doodle, a global leader in IT and software development, wanted to automate its t
 - Enable hiring managers to evaluate and respond with final results — all with minimal manual intervention.
 
 1. **Clone the Repository**
-git clone https://github.com/malisuyash/Automatic-Hiring-System
+git clone https://github.com/malisuyash/Automatic-Hiring-System.git
 
